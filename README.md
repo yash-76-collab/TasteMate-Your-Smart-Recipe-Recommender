@@ -43,9 +43,9 @@ Note: Please ensure the `data` folder exists in your project root before running
 ## Deployment
 
 - **Frontend**: React.js (deployed on Vercel)
-  - [Frontend GitHub Repository](https://github.com/The-Cow-addict/data-mining-project)
+  
 - **Backend**: FastAPI (deployed on Render)
-  - [Backend GitHub Repository](https://github.com/The-Cow-addict/data-mining-project-backend)
+
 - **Live App**: [https://data-mining-project-eight.vercel.app/](https://data-mining-project-eight.vercel.app/)
 
 ## Run Locally
