@@ -52,7 +52,7 @@ Note: Please ensure the `data` folder exists in your project root before running
 
 ### Backend
 ```bash
-git clone https://github.com/The-Cow-addict/data-mining-project-backend.git
+
 cd data-mining-project-backend
 pip install -r requirements.txt
 uvicorn main:app --reload
@@ -61,7 +61,7 @@ uvicorn main:app --reload
 ### Frontend
 
 ```bash
-git clone https://github.com/The-Cow-addict/data-mining-project.git
+
 cd data-mining-project
 npm install
 npm run dev
